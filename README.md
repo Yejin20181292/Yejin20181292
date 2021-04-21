@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi, I'm YeJin
+<ul>
+ <li>This is Yejin20181292's GitHub 👀</li>
+</ul>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Yejin20181292)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yejin20181292&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Yejin20181292/Yejin20181292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
